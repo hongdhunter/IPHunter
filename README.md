@@ -2,6 +2,12 @@
 
 Access-Control-Allow-Origin: *
 
+
+
+[TOC]
+
+
+
 ## Get headers
 
 <pre>http://iphunter.net/get
@@ -19,6 +25,7 @@ Access-Control-Allow-Origin: *
 }</pre>
 
 
+---
 
 ## IP GEO, 多数据源查询 IP 归属地
 
