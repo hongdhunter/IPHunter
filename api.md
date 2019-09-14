@@ -1,13 +1,12 @@
-# IPHunter.net
+## IPHunter API
 
 Access-Control-Allow-Origin: *
 
-
 ## Get headers
 
-#### http://iphunter.net/get
+<pre>http://iphunter.net/get
 
-<pre>{
+{
     "Remote_ip": "8.8.8.8",
     "X-Forwarded-For": "8.8.8.8",
     "X-Real-Ip": "8.8.8.8",
@@ -23,11 +22,12 @@ Access-Control-Allow-Origin: *
 
 ## IP GEO, 多数据源查询 IP 归属地
 
-#### http://iphunter.net/geo_ip?ipv4=8.8.8.8
-
 可以不加参数请求（直接请求/geo_ip），直接查询请求源 IP 地址信息。 [Geo 数据发行方](https://iphunter.net/ipx/geo_data "Geo 数据发行方")
 
-<pre>{
+<pre>
+http://iphunter.net/geo_ip?ipv4=8.8.8.8
+ 
+{
     "code": 10000,
     "result": {
         "geo_GeoLite2_ASN": {...},
