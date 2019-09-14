@@ -4,9 +4,10 @@ Access-Control-Allow-Origin: *
 
 ## Get headers
 
-#### http://iphunter.net/get
+#### 
 
-<pre>{
+<pre>http://iphunter.net/get
+{
     "Remote_ip": "8.8.8.8",
     "X-Forwarded-For": "8.8.8.8",
     "X-Real-Ip": "8.8.8.8",
