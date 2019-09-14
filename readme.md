@@ -26,8 +26,7 @@ Access-Control-Allow-Origin: *
 
 #### http://iphunter.net/geo_ip?ipv4=8.8.8.8
 
-[链接文字](http://baidu.com "Geo 数据发行方")
-[!http://baidu.com, Geo 数据发行方]，可以不加参数请求（直接请求/geo_ip），直接查询请求源 IP 地址信息。
+[Geo 数据发行方](https://iphunter.net/ipx/geo_data "Geo 数据发行方")，可以不加参数请求（直接请求/geo_ip），直接查询请求源 IP 地址信息。
 
 
 
