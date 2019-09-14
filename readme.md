@@ -1,9 +1,8 @@
 # IPHunter.net
 
 
-Access-Control-Allow-Origin: *
-----
 
+Access-Control-Allow-Origin: *
 
 ## Get headers
 
@@ -23,9 +22,9 @@ Access-Control-Allow-Origin: *
 
 
 
-##IP GEO, 多数据源查询 IP 归属地
+## IP GEO, 多数据源查询 IP 归属地
 
-####http://iphunter.net/geo_ip?ipv4=8.8.8.8
+#### http://iphunter.net/geo_ip?ipv4=8.8.8.8
 
 IPIP.NET / CZ88.net / ip2Region,  Geo 发行方，可以不加参数请求（直接请求/geo_ip），直接查询请求源 IP 地址信息。
 
