@@ -4,10 +4,6 @@ Access-Control-Allow-Origin: *
 
 
 
-TOC
-
-
-
 ## Get headers
 
 <pre>http://iphunter.net/get
