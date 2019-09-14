@@ -6,7 +6,7 @@ Access-Control-Allow-Origin: *
 ### Get headers
 #### http://iphunter.net/get
 
-`{
+<pre>{
     "Remote_ip": "8.8.8.8",
     "X-Forwarded-For": "8.8.8.8",
     "X-Real-Ip": "8.8.8.8",
@@ -16,4 +16,4 @@ Access-Control-Allow-Origin: *
     "Host": "iphunter.net",
     "Cookie": "",
     "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.142 Safari/537.36",
-}`
+}</pre>
